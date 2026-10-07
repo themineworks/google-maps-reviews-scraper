@@ -1,0 +1,15 @@
+{
+  "name": "google-maps-reviews-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Star ratings, full review text and owner replies for any Maps listing. Python, Node.js and cURL clients for the Google Maps Reviews Scraper on Apify, pay per result.",
+  "main": "google_maps_reviews_scraper.mjs",
+  "scripts": {
+    "start": "node google_maps_reviews_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/google-maps-reviews/"
+}
